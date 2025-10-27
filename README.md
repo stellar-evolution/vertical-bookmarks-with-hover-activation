@@ -1,8 +1,12 @@
 # Vertical Bookmarks with Hover Activation
 
-A simple browser extension that adds a vertical bookmarks sidebar with hover activation. Mostly just made this because I'm not a fan of the regular horizontal bookmarks bar - this one keeps all your bookmarks organized vertically on the side of your browser.
+Made a simple browser extension that adds a vertical bookmarks sidebar with hover activation. The regular horizontal bookmarks bar is cooked as hell so I wanted one that keeps all your bookmarks vertically on the side of my browser that opens whenever you hit the edge of your screen. I recommend that you set your bookmarks bar to 'only show on new tab' -- because the new tab page is technically internal for all browsers, my extension doesn't work on actual default new tab pages -- so if you open a new tab keep your bookmarks bar open with 'only show on new tab'.
 
-**Note:** This isn't on the Chrome Web Store (yet), so you'll need to install it manually using developer mode. Don't worry, it's pretty straightforward!
+I've built the custom new tab page required to allow my vertical bookmarks extension to work on my new tab page, but atm it's only customized to my name + backgrounds + languages.
+
+Will probably build a UI for public custom NTP as well but for now will assume most people don't wanna switch up their whole New Tab just to test out my side project but yeah lmk
+
+**Note:** This isn't on the Chrome Web Store (yet), so you'll need to install it manually using developer mode.
 
 ## What It Does
 
