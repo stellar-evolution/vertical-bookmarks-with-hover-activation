@@ -1,0 +1,20 @@
+# macOS metadata
+.DS_Store
+
+# VS Code project files
+.vscode/
+
+# Logs
+*.log
+
+# Temporary or system files
+Thumbs.db
+*.tmp
+
+# Build artifacts (if you ever add a build step later)
+dist/
+build/
+
+# ZIPs or packaged extension files
+*.zip
+*.crx
