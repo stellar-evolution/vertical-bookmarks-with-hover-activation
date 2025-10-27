@@ -2,7 +2,7 @@
 
 Made a simple browser extension that adds a vertical bookmarks sidebar with hover activation. The regular horizontal bookmarks bar is cooked as hell so I wanted one that keeps all your bookmarks vertically on the side of my browser that opens whenever you hit the edge of your screen. I recommend that you set your bookmarks bar to 'only show on new tab' so that way you can get rid of the space your bookmarks bar takes up horizontally once you leave the new tab page -- don't set to never show unless you don't mind not being able to see bookmarks, native horizontal or my vertical popout bookmarks, on the new tab page (NTP) at all.
 
-This is because the new tab page is technically internal for all browsers, my extension doesn't work on actual default new tab pages -- so if you open a new tab keep your bookmarks bar open with 'only show on new tab'.
+This is because the new tab page is technically internal for all browsers, so extensions can't activate on actual default new tab pages -- so if you open a new tab keep your bookmarks bar open with **'only show on new tab'.** so you can still see your horizontal bookmarks on the NTP. (as soon as you leave the default NTP you can activate the vertical bookmarks popout)
 
 I've built the custom new tab page required to allow my vertical bookmarks extension to work on my new tab page, but atm it's only customized to my name + backgrounds + languages.
 
